@@ -10,7 +10,10 @@ Para executar todos os textes de uma vez utilize o comando: pytest tests/
 <br>
 Para executar os testes de maneira individual utilize o comando: pytest tests/test_tarefas.py::nome_da_função
 
+Nome das funções:
+<br>
 Módulo: Autenticação
+<br>
 1 - test_ct01_login_valido
 
 2 - test_ct02_login_sem_username
