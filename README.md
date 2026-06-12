@@ -1,8 +1,11 @@
 <img width="1372" height="400" alt="teste sms" src="https://github.com/Gustavo33502/test19/blob/main/printtest19.png" />
+Print do test
 
-Documento de explicação dos 19 casos de teste do código realizado e como executa-los:
+Para realizar os testes, é necessário fazer a instalação de algumas extensões. Para realizar essas instalações, utilize o comando pip install -r requirements.txt no terminal do seu editor/IDE.
 
-Para executar os testes utilize o comando: pytest tests/test_tarefas.py::"nome_da_função"
+Documento de explicação dos 19 casos de teste do código realizado e como executá-los:
+
+Para executar os testes, utilize o comando: pytest tests/test_tarefas.py::nome_da_função
 
 Módulo: Autenticação
 1 - test_ct01_login_valido
