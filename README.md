@@ -201,3 +201,6 @@ O que simula: A garantia real de persistência da deleção (comprovar que o "de
 Como age: Faz o fluxo de autenticação, cria uma tarefa, deleta essa tarefa usando o token e, logo em seguida, tenta fazer um GET na rota de detalhes daquela mesma tarefa deletada.
 
 O que valida: Garante que a API retorne 404 Not Found no último passo, provando que o registro foi de fato expurgado da memória e não está mais acessível. venv/bin/activate
+
+
+⚠️A minha maior dificuldade foi em relação a CT06 e CT07, onde entender a diferença entre uma string nula e vazia confundiu um pouco meu entendimento dos dois testes. Porém depois de uma pequena pesquisa com Elizabeth Santos consegui compreender o caso.
