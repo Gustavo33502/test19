@@ -1,6 +1,6 @@
 <img width="1372" height="600" alt="teste sms" src="https://github.com/Gustavo33502/test19/blob/main/printtest19.png" />
 Print do test
-
+<br><br>
 
 Para realizar os testes, é necessário fazer a instalação de algumas extensões. Para realizar essas instalações, utilize o comando pip install -r requirements.txt no terminal do seu editor/IDE.
 
@@ -8,9 +8,11 @@ Documento de explicação dos 19 casos de teste do código realizado e como exec
 
 Para executar todos os textes de uma vez utilize o comando: pytest tests/
 <br>
+<br>
 Para executar os testes de maneira individual utilize o comando: pytest tests/test_tarefas.py::nome_da_função
 
 Nome das funções:
+<br>
 <br>
 Módulo: Autenticação
 <br>
