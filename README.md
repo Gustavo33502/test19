@@ -1,4 +1,4 @@
-<img width="1372" height="400" alt="teste sms" src="https://github.com/Gustavo33502/test19/blob/main/printtest19.png" />
+<img width="1372" height="600" alt="teste sms" src="https://github.com/Gustavo33502/test19/blob/main/printtest19.png" />
 Print do test
 
 
