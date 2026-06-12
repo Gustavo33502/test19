@@ -1,4 +1,4 @@
-<img width="1372" height="199" alt="teste sms" src="https://github.com/Gustavo33502/test19/blob/main/printtest19.png" />
+<img width="1372" height="400" alt="teste sms" src="https://github.com/Gustavo33502/test19/blob/main/printtest19.png" />
 
 Documento de explicação dos 19 casos de teste do código realizado e como executa-los:
 
