@@ -7,6 +7,7 @@ Para realizar os testes, é necessário fazer a instalação de algumas extensõ
 Documento de explicação dos 19 casos de teste do código realizado e como executá-los:
 
 Para executar todos os textes de uma vez utilize o comando: pytest tests/
+<br>
 Para executar os testes de maneira individual utilize o comando: pytest tests/test_tarefas.py::nome_da_função
 
 Módulo: Autenticação
